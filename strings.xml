@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string-array name="Mobiles">
+        <item>One plus</item>
+        <item>Redmi</item>
+        <item>Samsung</item>
+        <item>Oppo</item>
+        <item>Vivo</item>
+        <item>Honor</item>
+        <item>Moto</item>
+        <item>Lenovo</item>
+        <item>Nokia</item>
+        <item>Apple</item>
+        <item>Blackberry</item>
+    </string-array>
+    <string-array name="description">
+        <item>this is random desc</item>
+        <item>this is random desc</item>
+        <item>this is random desc</item>
+        <item>this is random desc</item>
+        <item>this is random desc</item>
+        <item>this is random desc</item>
+        <item>this is random desc</item>
+        <item>this is random desc</item>
+        <item>this is random desc</item>
+        <item>this is random desc</item>
+        <item>this is random desc</item>
+    </string-array>
+</resources>
